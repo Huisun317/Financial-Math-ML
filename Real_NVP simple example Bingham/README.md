@@ -10,7 +10,7 @@ We give some examples of applying realNVP to problems of interest.
 
 One of the major goal in stochastic computing is sampling, i.e. given a density $\nu(dx)$, how to efficiently sample random variables from such a distribution. Suppose that 
 	$$\nu(dx) = \rho(x)dx$$ 
-for some density $ \rho (x) $. 
+for some density $\rho$. 
 
 In this work, we propose a transportation method to do such sampling. That is, with the information that it's difficult to sample from the distribution $ \nu(dx) $, we want to find a transport map 
 
