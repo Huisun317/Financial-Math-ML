@@ -12,7 +12,7 @@ One of the major goal in stochastic computing is sampling, i.e. given a density 
 	$$\nu(dx) = \rho(x)dx$$ 
 for some density $\rho(x)$. 
 
-In this work, we propose a transportation method to do such sampling. That is, with the information that it's difficult to sample from the distribution $ \nu(dx) $, we want to find a transport map 
+In this work, we propose a transportation method to do such sampling. That is, with the information that it's difficult to sample from the distribution $\nu(dx)$, we want to find a transport map 
 
 $$ T_*:\Omega \rightarrow \Omega $$ 
 
