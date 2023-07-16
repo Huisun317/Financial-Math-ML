@@ -25,7 +25,8 @@ We comment that the existence of the map $T_*$ is guaranteed by the optimal tran
 We denote by $\bar{T}$ the inverse of the exact map $T_* $, then by a change of coordinate in 
 
 $$\begin{align}
-\int_{\Omega_x} O(T_* (\bar{T}(y)))\rho_B(\bar{T}(y)) d\bar{T}(y) & = \int_{\Omega_y} O(y) \rho_B(\bar{T}(y)) \det|\nabla_y \bar{T}(y)| dy \\
+\int_{\Omega_x} O(T_* (\bar{T}(y)))\rho_B(\bar{T}(y)) d\bar{T}(y)
+& = \int_{\Omega_y} O(y) \rho_B(\bar{T}(y)) \det|\nabla_y \bar{T}(y)| dy \\
 	                                                          & = \int_{\Omega_y} O(y) \rho_* (y) dy
 \end{align}$$
 
