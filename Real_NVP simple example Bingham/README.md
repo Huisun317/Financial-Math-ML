@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 # RealNVP-application-Normalizing-flow
 We give some examples of applying realNVP to problems of interest. 
 1. We provide a simple example of sampling from the Bingham distribution using realNVP. 
