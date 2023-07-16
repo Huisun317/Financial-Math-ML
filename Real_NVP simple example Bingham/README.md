@@ -18,7 +18,7 @@ $$ T_*:\Omega \rightarrow \Omega $$
 
 such that the following equation holds:
 
-$$\int_{\Omega} O(T_{* } (x))  \rho_B(x)dx = \int_{\Omega} O(x) \rho_* (x)dx $$      
+$$\int_{\Omega} O(T_{x} (x))  \rho_B(x)dx = \int_{\Omega} O(x) \rho_* (x)dx $$      
 
 We comment that the existence of the map $T_*$ is guaranteed by the optimal transportation theory.  To distinguish between the base space and the target domain, we use $\Omega_x$ and $\Omega_y$ to denote $\Omega$ even though these two are the same. 
 
